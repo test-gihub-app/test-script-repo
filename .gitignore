@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+*.log
+node_modules
+package-lock.json
+.npm
+.nyc_output
+.dockerignore
+.*.dockerfile
+lib/
+coverage
+.husky
